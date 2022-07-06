@@ -85,3 +85,8 @@ header .textos-header{
     display: flex;
     justify-content: space-evenly;
 }
+
+.contenedor-porque-asoganan{
+    display: flex;
+    justify-content: space-evenly;
+}
